@@ -1,2 +1,4 @@
-# BIN3005-PANDAS-AND-SKLEARN-SCRIPT-FOR-HANDLING-TCGA
-# BIN3005-PANDAS-AND-SKLEARN-SCRIPT-FOR-HANDLING-TCGA\n
+                                        PANDAS-AND-SKLEARN-SCRIPT-FOR-HANDLING-TCGA
+These are various scripts that I created to handle TCGA datasets
+Feel free to use them if it helps you
+
